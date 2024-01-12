@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b2dfca5c-3be8-4fd2-a8bf-6904b4efd673" name="miralievs.uz" url="http://miralievs.uz">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\miralievs.uz" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
